@@ -1,4 +1,4 @@
-# project-1
+# Content
 This will be a toy project to practice git commands
 
 1. [Installation](#installation)
