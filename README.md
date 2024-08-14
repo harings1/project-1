@@ -15,7 +15,7 @@ For this project, I was interestested in using Stack Overflow data from 2024 to 
 
 1. What is the job satisfaction of the survey participants?
 2. Is programming as a hobby a requirement for becoming a developer?
-3. Can you influence the salary by working remotely/ onsite?
+3. Can you influence the salary by working remotely or in-person?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.
 
