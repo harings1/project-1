@@ -13,9 +13,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation <a name="motivation"></a>
 For this project, I was interestested in using Stack Overflow data from 2024 to better understand:
 
-1. What is the job satisfaction of the survey participants?
-2. Is programming as a hobby a requirement for becoming a developer?
-3. Can you influence the salary by working remotely or in-person?
+1. Which are the favourite languages that developers want to work with in the future?
+2. Is there a correlation between job satisfaction and collaboration style?
+3. Is there a correlation beween working years and salary?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.
 
