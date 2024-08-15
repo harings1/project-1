@@ -1,0 +1,18 @@
+Exciting results from the Stack Overflow Survey 2024.
+Over 65,000 professional and aspiring developers worldwide participated in the 2024 survey.
+I’ve selected three key questions from it:
+
+1. Which languages do developers most want to work with in the future?
+2. Is there a correlation between job satisfaction and collaboration style?"
+3. Is there a correlation between years of experience and salary?
+
+Result 1: The most popular language for the future is Python, followed by JavaScript and SQL.
+With over 30% support, Python (38%), JavaScript (36%), SQL (34%), HTML/CSS (32%), and TypeScript (31%) emerged as the top choices.
+
+Result 2: Colleagues who collaborate frequently are more satisfied than "lone wolves."
+The lowest average satisfaction (6.6 out of 10) is found among those who never collaborate with external team members. As the frequency of collaboration per week increases, so does the average satisfaction (7.1 for 10+ times a week).
+
+Result 3: A few young outliers blow the budget.
+There is no strong correlation between the two variables. No trend of increasing compensation with more years of experience was observed. However, there are a few extreme high compensation values among participants with shorter coding experience.
+
+In summary, there is a strong interest in exploring new programming languages. Many participants named multiple desired languages. Regular collaboration with external team members should be encouraged to ensure knowledge transfer and support employee satisfaction.
